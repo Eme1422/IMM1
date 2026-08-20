@@ -7,7 +7,7 @@ from gtts import gTTS
 from PIL import Image
 import base64
 
-st.title("Conversión de Texto a Audio")
+st.title("La princesa y el guisante")
 image = Image.open('gato_raton.png')
 st.image(image, width=350)
 with st.sidebar:
@@ -20,8 +20,12 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('hola'
-        
+st.write('Había una vez un príncipe que buscaba una princesa de verdad. Una noche, una joven llegó al castillo y aseguró 
+ser una princesa. La reina decidió ponerla a prueba: escondió un pequeño guisante debajo de veinte colchones.
+A la mañana siguiente, la joven bajó las escaleras con cara de sueño.
+—¡No pude dormir! Había algo duro debajo de la cama.
+La reina sonrió. Sabía que solo una verdadera princesa podía sentir un guisante bajo tantos colchones.
+Y así, la joven se convirtió en princesa y vivió feliz en el castillo junto al príncipe.'
         )
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
