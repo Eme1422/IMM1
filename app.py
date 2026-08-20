@@ -21,7 +21,7 @@ except:
 
 st.subheader("La princesa y el guisante")
 st.write('Había una vez un príncipe que buscaba una princesa de verdad. Una noche, una joven llegó al castillo y aseguró 
-ser una princesa. La reina decidió ponerla a prueba: escondió un pequeño guisante debajo de veinte colchones.
+ser una princesa. La reina decidió ponerla a prueba: escondió un pequeño guisante debajo de veinte colchones.'
 A la mañana siguiente, la joven bajó las escaleras con cara de sueño.
 —¡No pude dormir! Había algo duro debajo de la cama.
 La reina sonrió. Sabía que solo una verdadera princesa podía sentir un guisante bajo tantos colchones.
