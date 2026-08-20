@@ -20,12 +20,25 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('¡Ay! -dijo el ratón-. El mundo se hace cada día más pequeño. Al principio era tan grande que le tenía miedo. '  
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
-         ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
-         ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
-         '  '
-         ' Franz Kafka.'
+st.write('Había una vez un príncipe que quería casarse con una princesa pero con una verdadera princesa de sangre real. Viajó por todo el mundo buscando una, pero era muy difícil encontrarla, mucho más difícil de lo que había supuesto.   Las princesas abundaban, pero no era sencillo averiguar si eran de sangre real. Siempre acababa descubriendo en ellas algo que le demostraba que en realidad no lo eran, y el príncipe volvió a su país muy triste por no haber encontrado una verdadera princesa real.
+   Una noche, estando en su castillo, se desencadenó una terrible tormenta: llovía muchísimo, los relámpagos iluminaban el cielo y los truenos sonaban muy fuerte. De pronto, se oyó que alguien llamaba a la puerta:
+   -¡ Toc, toc!
+   La familia no entendía quién podía estar a la intemperie en semejante noche de tormenta y fueron a abrir la puerta.
+   -¿ Quién es? - preguntó el padre del príncipe.
+   - Soy la princesa del reino de Safi - contestó una voz débil y cansada. - Me he perdido en la oscuridad y no sé regresar a donde estaba.
+   Le abrieron la puerta y se encontraron con una hermosa joven:
+   - Pero ¡Dios mío! ¡Qué aspecto tienes!
+   La lluvia chorreaba por sus ropas y cabellos. El agua salía de sus zapatos como si de una fuente se tratase. Tenía frío y tiritaba.
+   En el castillo le dieron ropa seca y la invitaron a cenar. Poco a poco entró en calor al lado de la chimenea.
+   La reina quería averiguar si la joven era una princesa de verdad.
+   "Ya sé lo que haré - pensó -. Colocaré un guisante debajo de los muchos edredones y colchones que hay en la cama para ver si lo nota. Si no se da cuenta no será una verdadera princesa. Así podremos demostrar su sensibilidad".
+   Al llegar la noche, la reina colocó un guisante bajo los colchones y después se fue a dormir.
+   A la mañana siguiente, el príncipe preguntó:
+   -¿Qué tal has dormido, joven princesa?
+   - ¡Oh! Terriblemente mal - contestó -. No he dormido en toda la noche. No comprendo qué tenía la cama; Dios sabe lo que sería. Tengo el cuerpo lleno de cardenales. ¡Ha sido horrible!
+   - Entonces, ¡eres una verdadera princesa! Porque a pesar de los muchos colchones y edredones, has sentido la molestia del guisante. ¡Sólo una verdadera princesa podía ser tan sensible!
+   El príncipe se casó con ella porque estaba seguro de que era una verdadera princesa. Después de tanto tiempo, al final encontró lo que quería.
+   Y colorín colorado, este cuento se ha acabado'
         
         )
            
