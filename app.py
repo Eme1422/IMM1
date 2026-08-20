@@ -20,12 +20,17 @@ except:
     pass
 
 st.subheader("La princesa y el guisante")
-st.write('Había una vez un príncipe que buscaba una princesa de verdad. Una noche, una joven llegó al castillo y aseguró 
-ser una princesa. La reina decidió ponerla a prueba: escondió un pequeño guisante debajo de veinte colchones.'
+st.write("""
+Había una vez un príncipe que buscaba una princesa de verdad. Una noche, una joven llegó al castillo y aseguró ser una princesa. La reina decidió ponerla a prueba: escondió un pequeño guisante debajo de veinte colchones.
+
 A la mañana siguiente, la joven bajó las escaleras con cara de sueño.
+
 —¡No pude dormir! Había algo duro debajo de la cama.
+
 La reina sonrió. Sabía que solo una verdadera princesa podía sentir un guisante bajo tantos colchones.
-Y así, la joven se convirtió en princesa y vivió feliz en el castillo junto al príncipe')
+
+Y así, la joven se convirtió en princesa y vivió feliz en el castillo junto al príncipe.
+""")
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
